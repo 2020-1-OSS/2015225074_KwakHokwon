@@ -1,9 +1,8 @@
-2015225074 곽호권
-1. Run the Python code
-    - python3 rockpaperscissors.py
-2. Enter your play (case-sensitive):
-    - Rock,
-    - Paper, or
-    - Scissors    
-    - love teacher
+Rock-Paper-Scissors Game
+
+Winning Rule
+|Player/Computer|Rock|Paper|Scissors|
+|Rock|Tie|Lose|Win
+|Paper|Win|Tie|Lose|
+|Scissors|Lose|Win|Tie|
 
